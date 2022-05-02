@@ -6,7 +6,9 @@ Instalação
 
 Passos para Execução do Projeto
 > `Instalação angular`: npm install -g @angular/cli
+
 > `Baixar as dependências`: npm i
+
 > `Executar`: ng serve
 
 ## Conceitos
