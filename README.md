@@ -1,6 +1,14 @@
 # Data Binding
 - Está relacionado a como um componente pode se comunicar entre a parte do template e a parte lógica comportamental.
 
+Instalação
+> [Download Node](https://nodejs.org/en/download/)
+
+Passos para Execução do Projeto
+> `Instalação angular`: npm install -g @angular/cli
+> `Baixar as dependências`: npm i
+> `Executar`: ng serve
+
 ## Conceitos
 > [`String Interpolation: {{expressao}}`](https://github.com/jcarloscody/angular_data_binding/tree/main/src/app/string-interpolation) está relacionado a como a partir do template eu consido acessar uma variável da classe do componente. 
 
