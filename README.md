@@ -7,5 +7,5 @@
 > [`Property Binding: [atributo]="variavel"`](https://github.com/jcarloscody/angular_data_binding/tree/main/src/app/property-binding) A ideia é associar um atributo de uma tag ao valor de uma variável declarada na classe do componente. 
 
 > [`Event Binding: (evento)="funcao()"`](https://github.com/jcarloscody/angular_data_binding/tree/main/src/app/event-binding) Com este conceito iremos associar eventos do templates a métodos da classe do componentes. 
-- com parâmetro: `(evento)="funcao($event)"`
-- associar evento com o property binding `Two way data binding`: é lincar um atributo de uma tag a um atributo de uma classe do componente ao mesmo tempo que é lincado as mundanças daquele mesmo componente.
+> - com parâmetro: `(evento)="funcao($event)"`
+> - associar evento com o property binding `Two way data binding`: é lincar um atributo de uma tag a um atributo de uma classe do componente ao mesmo tempo que é lincado as mundanças daquele mesmo componente.
