@@ -4,7 +4,7 @@
 Instalação
 > [Download Node](https://nodejs.org/en/download/)
 
-Passos para Execução do Projeto
+Comandos para Execução do Projeto
 > `Instalação angular`: npm install -g @angular/cli
 
 > `Baixar as dependências`: npm i
